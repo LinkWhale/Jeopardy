@@ -1,5 +1,5 @@
 function on() {
-    document.getElementById("question").style.display = "block";
+    document.getElementById("question").style.display = "flex";
 }
 
 function off() {
